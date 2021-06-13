@@ -1,0 +1,1 @@
+print(len('# se pilha da esquerda vazia, resto da lista preenchida com a pilha direita'))
